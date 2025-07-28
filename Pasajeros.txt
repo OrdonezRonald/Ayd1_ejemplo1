@@ -1,1 +1,3 @@
 Aqui va todo el codigo de los pasajeros
+
+Se modificaron los ingresos de tarjetas de los passajeros.
